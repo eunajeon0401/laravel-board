@@ -8,6 +8,7 @@ creating a board with php, mysql, laravel
 | Language | PHP 8.2.17 |
 | Editor | Visual Studio Code 1.74.2 |
 | DBMS | MySQL Workbench 8.0.17 |
+| Framework | Laravel Framework 11.0.7 |
 | Server | 	aws EC2 |
 | Github | https://github.com/eunajeon0401/laravel-board.git |
 
